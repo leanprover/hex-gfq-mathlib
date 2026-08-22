@@ -9,12 +9,12 @@ leanOptions = [
 [[require]]
 name = "HexGFq"
 git = "https://github.com/leanprover/hex-gfq.git"
-rev = "9f8543fd8b4e1e9234055b78727b1eae9e97d365"
+rev = "b39778269bcb39ea561e760266ed15165586b3a3"
 
 [[require]]
 name = "HexGF2Mathlib"
 git = "https://github.com/leanprover/hex-gf2-mathlib.git"
-rev = "5561ad30f370fbd94cb675706cc315da634936ca"
+rev = "64df28468d4dd3574161696dae53079584b31f69"
 
 [[require]]
 name = "mathlib"
